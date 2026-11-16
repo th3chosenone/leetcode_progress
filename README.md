@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/th3chosenone/leetcode_progress/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/th3chosenone/leetcode_progress/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/th3chosenone/leetcode_progress/tree/master/1089-duplicate-zeros) |
 ## Binary Search
@@ -26,10 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/th3chosenone/leetcode_progress/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/th3chosenone/leetcode_progress/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0088-merge-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
