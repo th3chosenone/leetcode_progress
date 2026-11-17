@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/th3chosenone/leetcode_progress/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/th3chosenone/leetcode_progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/th3chosenone/leetcode_progress/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/th3chosenone/leetcode_progress/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/th3chosenone/leetcode_progress/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/th3chosenone/leetcode_progress/tree/master/1089-duplicate-zeros) |
 ## Binary Search
