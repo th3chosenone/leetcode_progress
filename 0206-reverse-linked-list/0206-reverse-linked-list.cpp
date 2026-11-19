@@ -11,16 +11,18 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+        ListNode* cur = head;
 
-        while (curr != nullptr) {
-            ListNode* nextNode = curr->next; // 1. Save next node before overwriting link
-            curr->next = prev;               // 2. Flip current node's pointer backward
-            prev = curr;                     // 3. Move prev forward
-            curr = nextNode;
+        while(cur != NULL){
+            next = cur->next;
+            cur->next = prev;
+
+            prev = cur;
+            cur = next;
+
         }
         return prev;
     }
-    
 };
